@@ -5,9 +5,9 @@ patch:
       states: ['中文', '英文']
     - name: full_shape
       states: ['半角', '全角']
-    - name: zh_simp # (※1) 繁简转换
+    - name: simplification
       reset: 1
-      states: ['繁体', '简体']
+      states: ['漢字', '汉字']
     - name: ascii_punct
       reset: 1
       states: ['。，', '．，']
