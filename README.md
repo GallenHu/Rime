@@ -8,3 +8,4 @@ Base on https://github.com/mritd/rime
 - add this project
 - `bash rime-install emoji`
 - `bash rime-install emoji:customize:schema=luna_pinyin`
+- rename/cp `luna_pinyin.custom.yaml` to `luna_pinyin_simp.custom.yaml`
