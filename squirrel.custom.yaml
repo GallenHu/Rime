@@ -29,3 +29,5 @@ patch:
       hilited_candidate_label_color: 0xffffff # 第一候选项编号颜色
       comment_text_color: 0xdedddd # 拼音等提示文字颜色
       #hilited_comment_text_color: 0xdedddd      # 注解文字高亮
+  patch:
+    app_options:
